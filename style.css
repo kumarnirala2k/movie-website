@@ -790,7 +790,7 @@ footer{
 .adbox1{
     height: 60vh;
     width: 60vh;
-    background-image: url('aboutimg/membership-DX1crTvv.jpg');
+    background-image: url('./aboutimg/membership-DX1crTvv.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
