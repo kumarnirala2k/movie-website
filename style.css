@@ -796,7 +796,7 @@ footer{
 }
 .adbox2{
     height: 60vh;
-    width: 60vh;
+    width: 60vw;
     /* background-image: url('about img/membership-DX1crTvv.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
