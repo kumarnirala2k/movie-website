@@ -323,23 +323,6 @@ div i{
         flex-direction: column;
     }
 
-    .ad1{
-        flex-direction: column;
-        width: 600px;
-        height: fit-content;
-        padding-bottom: 5vh;
-    }
-    .ad2{
-        flex-direction: column;
-    }
-    .adbo{
-        flex-direction: column;
-        height: auto;
-        width: 576px;
-    }
-    main{
-        flex-direction: column;
-    }
 }
 
 .ddd{
