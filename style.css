@@ -766,7 +766,7 @@ footer{
 
 .baner{
     height: 80vh;
-    background-image:url('/about img/about-banner-DkQmawDz.jpg');
+    background-image:url('/aboutimg/about-banner-DkQmawDz.jpg');
     background-position: bottom;
     /* background-image: linear-gradient(rgba(255, 255, 255, 0.367) rgba(197, 17, 17, 0.773)); */
 }
@@ -790,7 +790,7 @@ footer{
 .adbox1{
     height: 60vh;
     width: 60vh;
-    background-image: url('about img/membership-DX1crTvv.jpg');
+    background-image: url('aboutimg/membership-DX1crTvv.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -889,7 +889,7 @@ footer{
 
 .baner1{
     height: 70vh;
-    background-image:url('/about img/contact-banner-C3Qo8Op7.jpg');
+    background-image:url('/aboutimg/contact-banner-C3Qo8Op7.jpg');
     background-position: center;
     /* background-image: linear-gradient(rgba(255, 255, 255, 0.367) rgba(197, 17, 17, 0.773)); */
     background-size: cover;
