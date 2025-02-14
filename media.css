@@ -1,0 +1,236 @@
+@media (max-width: 479px) {
+
+  
+
+        
+        nav a{
+            display: none;
+    
+        
+        }
+        nav i{
+            display: inline;
+            color: rgb(154, 147, 147);
+        
+       
+    }
+        
+        .ph2{
+
+            font-size: 1.2vh;
+        }
+        
+        .parent2{
+            flex-direction: column;
+            margin-top: 1vh;
+
+           
+        }
+
+        .pb3{
+            flex-direction: column;
+            height: 500px;
+            width: 100%;
+          position: absolute;
+          left: 2vh;
+          top: 25vh;
+        }
+
+        .pb4{
+
+            height: 70vh;
+            width: 100%;
+            position: absolute;
+            left: 2vh;
+            top: 100vh;
+            right: 2vh;
+            padding-right: 3vp;
+
+        }
+
+        .parent1{
+
+            flex-direction: column;
+           padding: 8vh;
+           height: 100vh;
+          
+        }
+
+        .pb4 h1{
+
+            position: top;
+            font-size: 5vh;
+            padding: 3vh;
+            flex-direction: column-reverse;
+
+        }
+
+        .ph2{
+            font-size:1.8vh ;
+
+        }
+
+       
+
+        .parent2{
+            flex-direction: column;
+            margin-top: 50vh;
+            height: 2150vh;
+        }
+    
+
+        .pp1{
+            flex-direction: column;
+            
+        }
+
+        .b1{
+            margin:  2vh;
+        }
+
+        .pp1{
+
+            flex-direction: column;
+            margin: 3vh;
+        }
+
+        .mbox{
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+
+        }
+
+        .bbox{
+
+            height: 105vh;
+    width: 90vw;
+        }
+        .bbox1{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        
+        .bbox2{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox3{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox4{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+
+        .bbox5{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        
+        .bbox6{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox7{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox8{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox10{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        
+        .bbox12{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox11{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox9{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox13{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+        .bbox14{
+
+            height: 105vh;
+    width: 90vw;
+    margin-top: 2vh;
+        }
+
+
+
+        .s4{
+           display: none;
+        }
+
+        .footer{
+            margin-top: 2vh;
+            flex-direction: column;
+           align-items: center;
+           height: 430vh;
+        }
+
+        .parent3{
+            margin-top: 10vh;
+            flex-direction: column;
+            text-align: center;
+        }
+        .fd2{
+
+            margin-top: -65vh;
+           
+        }
+        .fd3{
+
+            margin-top: -65vh;
+        }
+
+        .fd4{
+
+            margin-top: -65vh;
+        }
+        
+}
+
+
+    
+    
+    
