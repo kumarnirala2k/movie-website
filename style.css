@@ -264,55 +264,7 @@ div i{
     padding-left: 2vh;
 
 }
-@media (max-width:600px) {
-    .parent1{
-        /* flex-direction: column; */
-        width: 100%;
-    }
-    .pp{
-        flex-direction: column;
-        width: 30%;
-    }
-    .pb1{
-        display: none;
-        width: 30%;
-        height: 30%;
-        margin-left: 10px;
-    }
-    .pb2{
-        flex-direction: column;
-        width: 35%;
-        display: none;
-    }
-    .pb3{
-        width: 40%;
-        height: 30%;
-    }
-    .pb4{
-        flex-direction: column;
-        width: 45%;
-        height: 100%;
-        position: absolute;
-        left: 50%;
-        top: 40%;
-        
-    }
-    .pb5{
-        display: none;
-    }
 
-    .pp1{
-        /* flex-direction: column; */
-        width: 70%;
-    }
-    .bbox1{
-        width: 120px;
-    }
-    .ad{
-        flex-direction: column;
-    }
-
-}
 
 .ddd{
     margin-top: 10vh;
@@ -618,11 +570,11 @@ div i{
     font-size: large;
     background-color: none;
 }
-footer{
+/* footer{
     height: 80vh;
     width: 100%;
     background-color: black;
-}
+} */
 .footer{
     height: 80vh;
     width: 100%;
@@ -631,11 +583,6 @@ footer{
     /* margin-right: 5vh; */
     display: flex;
     justify-content: space-around;
-}
-@media(max-width:600px){
-    .footer{
-        flex-direction: column;
-    }
 }
 .fd1{
     width: 60vh;
@@ -740,6 +687,8 @@ footer{
     top: -10vh;
 }
 .copyright{
+    margin-top: 0vh;
+  
     background-color: black;
 }
 .copyright h3{
@@ -770,7 +719,7 @@ footer{
     padding-top: 40vh;
 }
 .ad1{
-    height: 120vh;
+    height: 70vh;
     width: 100%;
     background-color: black;
     display: flex;

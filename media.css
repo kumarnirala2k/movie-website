@@ -202,14 +202,41 @@
         }
 
         .footer{
-            margin-top: 2vh;
+            width: 100%;
             flex-direction: column;
            align-items: center;
-           height: 430vh;
+           height: 400vh;
+           padding-bottom: 20vh;
+      
         }
 
+        .fd1{
+            height: 25%;
+            margin-top: 1vh;
+        }
+
+        .fd2{
+            height: 25%;
+            padding-bottom: 12vh;
+        }
+        .fd3{
+            height: 25%;
+            margin-top: 1vh;
+        }
+
+        .fd4{
+            height: 25%;
+            margin-top: 1vh;
+            
+        }
+
+
+        .copyright {
+          margin-top: 2vh;
+        
+        }
         .parent3{
-            margin-top: 10vh;
+            margin-top:0vh;
             flex-direction: column;
             text-align: center;
         }
@@ -223,9 +250,140 @@
             margin-top: -65vh;
         }
 
-        .fd4{
 
-            margin-top: -65vh;
+
+        /* about// */
+
+        .ad1{
+
+           flex-direction: column;
+           padding-left:1 vh;
+           align-items: center;
+           text-align: center;
+           height: 100%;
+        }
+
+        .adbox1{
+           
+        }
+
+        .adbox2{
+
+            height: 100%;
+        }
+
+        .adbox2 p{
+            font-size: 2.5vh;
+            line-height: 22px;
+            overflow: hidden;
+    
+            padding-left: 2vh;
+        }
+
+        .ad2{
+            height: 100%;
+            
+            flex-direction: column;
+            margin-top: 1vh;
+        }
+
+        .ah1{
+            font-size: 2vh;
+        }
+
+        .adbo{
+
+            height: 100%;
+            flex-direction: column;
+            align-items: center;
+            margin: 1vh;
+        }
+
+        .ah1{
+
+            margin-top: -5vh;
+        }
+
+        .adbo2{
+            height: 100%;
+            flex-direction: column;
+            
+
+        }
+
+        .adboxp{
+            margin-top: 3vh;
+            font-size: 4vh;
+
+        }
+
+        /* contacts us */
+
+        .cad{
+
+            flex-direction: column;
+            height: 100%;
+            margin-top: 2vh;
+        }
+
+        .form2 input{
+
+    
+            width: 10vh;
+            font-size: 2vh;
+
+
+        }
+        
+        .form1{
+
+            flex-direction: column;
+            width: 30%;
+
+        }
+
+        .form1 input{
+            width: 85%;
+            flex-direction: column;
+            
+
+        }
+
+
+        .cadbox{
+
+
+            flex-direction: column;
+            height: 100%;
+            margin-top: 40vh;
+            margin-left: 1vh;
+            display: inline;
+            margin-left: -22vh;
+            width: 80%;
+        }
+
+        .cad2{
+            height: 100%;
+        }
+
+        .cadbox iframe{
+          
+            height: 100%;
+            width: 100%;
+        }
+
+        .adfg{
+            margin-left: -10vh;
+        padding-left: 2vh;
+        }
+        .botpn{
+            height: 100%;
+
+        }
+        .botpn1{
+
+            flex-direction: column;
+            height: 100%;
         }
         
 }
